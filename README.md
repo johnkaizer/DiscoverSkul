@@ -37,3 +37,15 @@ In order to get the app running yourself, you need to:
 - Found this project useful ❤️? Support by clicking the ⭐️ button on the upper right of this page. ✌️
 - Notice anything else missing? File an issue 
 - Feel free to contribute in any way to the project from typos in docs to code review are all welcome.
+
+## Development
+For contributions.!
+To fix a bug or enhance an existing module, follow these steps:
+
+- Fork the repo
+- Create a new branch (`git checkout -b improve-feature`)
+- Make the appropriate changes in the files
+- Add changes to reflect the changes made
+- Commit your changes (`git commit -am 'Improve feature'`)
+- Push to the branch (`git push origin improve-feature`)
+- Create a Pull Request
