@@ -13,4 +13,6 @@
     <string name="header">DiscoverSkool</string>
     <string name="pass">password</string>
     <string name="welcome">WELCOME\nDiscoverSkool</string>
+    <string name="user">Example</string>
+    <string name="user_email">example@gmail.com</string>
 </resources>
