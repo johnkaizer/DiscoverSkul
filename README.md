@@ -31,12 +31,8 @@ In order to get the app running yourself, you need to:
 
 1.  Clone this project
 2.  Import the project into Android Studio
-3.  Connect your android device with USB or just start your emulator
-4.  After the project has finished setting up it stuffs, click the run button 
-## Support
-- Found this project useful ❤️? Support by clicking the ⭐️ button on the upper right of this page. ✌️
-- Notice anything else missing? File an issue 
-- Feel free to contribute in any way to the project from typos in docs to code review are all welcome.
+3.  Connect your android device with USB or use your emulator
+4.  After the project has finished resolving dependencies and building you run
 
 ## Development
 For contributions.!
@@ -49,3 +45,10 @@ To fix a bug or enhance an existing module, follow these steps:
 - Commit your changes (`git commit -am 'Improve feature'`)
 - Push to the branch (`git push origin improve-feature`)
 - Create a Pull Request
+
+## Support
+- Found this project useful ❤️? Support by clicking the ⭐️ button on the upper right of this page. ✌️
+- Notice anything else missing? File an issue 
+- Feel free to contribute in any way to the project from typos in docs to code review are all welcome.
+
+
