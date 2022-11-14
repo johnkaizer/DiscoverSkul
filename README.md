@@ -1,12 +1,6 @@
 # DiscoverSkul
 # Sreenshots
 
-### Authentication 
-
-### Normal User
-
-### Admin
-
 ## Tech Stack.
 - [Java](https://developer.android.com/studio/write/java8-support?gclid=CjwKCAiA68ebBhB-EiwALVC-NrHBWyF1NkQ3cE87Mr94ZDB2BsAxAsRpCmDJqi6vEKDlOeLfjhr_aRoCTwgQAvD_BwE&gclsrc=aw.ds) - Java is a programming language that can run on JVM. Google announced Java as one of its officially supported programming languages in Android Studio;
 - [LiveData](https://developer.android.com/topic/libraries/architecture/livedata) -  A lifecycle-aware data holder with the observer pattern
