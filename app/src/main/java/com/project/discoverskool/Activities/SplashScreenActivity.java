@@ -1,10 +1,13 @@
-package com.project.discoverskool;
+package com.project.discoverskool.Activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
+
+import com.project.discoverskool.Auth.SignInActivity;
+import com.project.discoverskool.R;
 
 public class SplashScreenActivity extends AppCompatActivity {
 

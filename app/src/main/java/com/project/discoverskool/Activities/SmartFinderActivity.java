@@ -1,8 +1,10 @@
-package com.project.discoverskool;
+package com.project.discoverskool.Activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.project.discoverskool.R;
 
 public class SmartFinderActivity extends AppCompatActivity {
 

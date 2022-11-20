@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "453902593060",
+    "project_id": "discoverskool-1dcce",
+    "storage_bucket": "discoverskool-1dcce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453902593060:android:c567aa62ea5ac7df18bcb1",
+        "android_client_info": {
+          "package_name": "com.project.discoverskool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453902593060-djsesh718i77o1iv5hha92kr0v9c8gqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-PjP9qx038DziJFxQIAOT-KbaSJYqQ5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453902593060-djsesh718i77o1iv5hha92kr0v9c8gqr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

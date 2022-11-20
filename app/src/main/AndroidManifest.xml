@@ -14,18 +14,18 @@
         android:theme="@style/Theme.DiscoverSkool"
         tools:targetApi="31">
         <activity
-            android:name=".SmartFinderActivity"
+            android:name=".Activities.SmartFinderActivity"
             android:exported="false" />
         <activity
-            android:name=".SignInActivity"
+            android:name=".Auth.SignInActivity"
             android:exported="false"
             android:theme="@style/Theme.DiscoverSkool.NoActionBar" />
         <activity
-            android:name=".SignUpActivity"
+            android:name=".Auth.SignUpActivity"
             android:exported="false"
             android:theme="@style/Theme.DiscoverSkool.NoActionBar" />
         <activity
-            android:name=".SplashScreenActivity"
+            android:name=".Activities.SplashScreenActivity"
             android:exported="true"
             android:theme="@style/Theme.DiscoverSkool.NoActionBar">
             <intent-filter>
@@ -37,8 +37,9 @@
         <activity
             android:name=".MainActivity"
             android:exported="true"
-            android:label="@string/app_name"
-            android:theme="@style/Theme.DiscoverSkool.NoActionBar"></activity>
+            android:label="@string/app_name">
+
+        </activity>
 
         <meta-data
             android:name="preloaded_fonts"

@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".SignInActivity"
+    tools:context=".Auth.SignInActivity"
     android:orientation="vertical"
     android:background="@color/white">
     <TextView
@@ -64,6 +64,8 @@
         android:layout_marginTop="10dp"
         android:textColorHint="@color/light_grey"
         android:textColor="@color/black"
+        android:inputType="textPassword"
+        android:drawableEnd="@drawable/visibility_off_24"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/editText2"
