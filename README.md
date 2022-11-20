@@ -1,5 +1,17 @@
 # DiscoverSkul
+#  <p align="center"><img  src="disclaimer.jpg" alt="Still Under Development" height="130px"></p><b> Still Under Development</b>
+
+## What is GADS
+Google Africa Developer Scholarship program is a Grow with Google, Andela, and Pluralsight partnership to support software developers in Africa on Android, Google Cloud, and Mobile Web courses. The aim of this program is to continuously engage with aspiring and existing developers on these tracks to become professional developers with skills that can get them opportunities after the program.
+### What is ALC
+The Andela Learning Community is a network of technologists and tech enthusiasts across Africa dedicated to learning how to use technology to solve humanity’s problems. The ALC facilitates your learning through the aid of guided mentorship from super awesome learning community ambassadors.
+# DiscoverSkool Android Application
+DiscoverSkool is an android application that  I'm developing for my project phase in the #2022GADS scholarship program. 
+- Search through school profiles
+- Send application to schools
+- Create a user profile
 # Sreenshots
+<img src="images/welcome.png" width="200" > <img src="images/login.png" width="200" > <img src="images/signup.png" width="200" ><img src="images/drawer.png" width="200" >  
 
 ## Tech Stack.
 - [Java](https://developer.android.com/studio/write/java8-support?gclid=CjwKCAiA68ebBhB-EiwALVC-NrHBWyF1NkQ3cE87Mr94ZDB2BsAxAsRpCmDJqi6vEKDlOeLfjhr_aRoCTwgQAvD_BwE&gclsrc=aw.ds) - Java is a programming language that can run on JVM. Google announced Java as one of its officially supported programming languages in Android Studio;
@@ -14,12 +26,10 @@
 - [Firebase Authentication](https://firebase.google.com/docs/auth) - Firebase Authentication provides backend services, easy-to-use SDKs, and ready-made UI libraries to authenticate users to your app.
 - [Firebase Messaging](https://firebase.google.com/docs/cloud-messaging) - Firebase Cloud Messaging (FCM) is a cross-platform messaging solution that lets you reliably send messages at no cost.
 - [Firebase Storage](https://firebase.google.com/docs/storage) - Cloud Storage for Firebase is a powerful, simple, and cost-effective object storage service built for Google scale.
-
 ## Setup Requirements
 - Android device or emulator
 - Android Studio
 - Create your own Firebase project and replace the `google-services.json` with yours.
-
 ## Getting Started
 In order to get the app running yourself, you need to:
 
